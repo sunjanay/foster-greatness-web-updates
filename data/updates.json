@@ -1,0 +1,46 @@
+{
+  "featured": "gingerbread-contest-2025",
+  "updates": [
+    {
+      "id": "gingerbread-contest-2025",
+      "type": "donate",
+      "title": "Donate Gingerbread Kits for our Community",
+      "description": "Sponsor a community member's holiday experience! $60 provides a complete gingerbread kit with icing, candies, decorations, shipping, plus a gift card and access to our live virtual building session with prizes. Help create belonging and connection for foster youth this holiday season.",
+      "date": "2025-11-18",
+      "link": "https://www.fostergreatness.co/donate-gingerbread-kits",
+      "linkText": "Sponsor a Member",
+      "image": "/images/giving-tuesday-banner.png"
+    },
+    {
+      "id": "holiday-gift-drive-2025",
+      "type": "donate",
+      "title": "Holiday Gift Drive 2025",
+      "description": "Choose a gift from our interactive Christmas tree and bring holiday joy to a Foster Greatness community member. Every gift creates connection and celebrates belonging.",
+      "date": "2025-11-19",
+      "link": "https://www.fostergreatness.co/holiday-gift-drive-2025",
+      "linkText": "Browse Gift Tree",
+      "image": "/images/holiday-gift-tree.png",
+      "published": false
+    },
+    {
+      "id": "crisis-fund",
+      "type": "donate",
+      "title": "Donate to FG's Crisis Fund",
+      "description": "Your donation provides emergency assistance to those impacted by foster care in our community when they need it most—quickly and directly.",
+      "date": "2025-11-18",
+      "link": "https://donate.stripe.com/bJe3cvb2Y50k7G96xJco003",
+      "linkText": "Support the Crisis Fund",
+      "image": "/images/crisis-fund.jpeg"
+    },
+    {
+      "id": "storyteller-collective",
+      "type": "page",
+      "title": "Storyteller Collective Guide",
+      "description": "Written entirely by people with lived experience in foster care, this 60+ page resource transforms storytelling from an act of vulnerability into a tool for empowerment.",
+      "date": "2025-11-18",
+      "link": "https://www.fostergreatness.co/storytellers-collective",
+      "linkText": "Read the Storyteller Guide",
+      "image": "/images/storyteller-guide.webp"
+    }
+  ]
+}
