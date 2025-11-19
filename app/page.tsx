@@ -34,6 +34,7 @@ interface Update {
   eventTime?: string
   image?: string
   published?: boolean
+  cta?: string
 }
 
 interface Newsletter {
