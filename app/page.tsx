@@ -1162,7 +1162,7 @@ export default function Home() {
         }}
       />
 
-      <div className="relative w-full py-6 sm:py-8 md:py-10 px-4 sm:px-6 md:px-8 lg:px-12 max-w-6xl mx-auto">
+      <div className="relative w-full py-6 sm:py-8 md:py-10 px-4 sm:px-6 md:px-8 lg:px-12 max-w-7xl mx-auto">
         {/* Hero Section */}
         <HeroSection />
 
