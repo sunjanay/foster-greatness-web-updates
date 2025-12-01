@@ -15,12 +15,11 @@
       "id": "holiday-gift-drive-2025",
       "type": "donate",
       "title": "Holiday Gift Drive 2025",
-      "description": "Choose a gift from our interactive Christmas tree and bring holiday joy to a Foster Greatness community member. Every gift creates connection and celebrates belonging.",
+      "description": "Adopt a former foster youth this holiday season! Browse our interactive gift tree and sponsor a gift for a Foster Greatness community member. Every gift creates connection and celebrates belonging.",
       "date": "2025-11-19",
-      "link": "https://www.fostergreatness.co/holiday-gift-drive-2025",
+      "link": "https://www.fostergreatness.co/giving-tree",
       "linkText": "Browse Gift Tree",
-      "image": "/images/holiday-gift-tree.png",
-      "published": false
+      "image": "/images/holiday-gift-drive-banner.png"
     },
     {
       "id": "crisis-fund",
